@@ -1,5 +1,5 @@
 # Weclome to bitgames-template
-Live demo [_here_]([https://devbitegames-native.netlify.app/]).
+> Live demo [_here_](https://devbitegames-native.netlify.app/).
 
 ## General Information
 html5 template wich include subscribe form and home page landing;
